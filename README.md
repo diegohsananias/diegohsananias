@@ -12,6 +12,6 @@ Meu nome é Diego Ananias, Bacharel em Ciência da Computaão e Trabalho PHP a 8
 
 - :office_worker: Programador PHP na **Programmers Beyond IT**
 - :blue_heart: Techs: PHP, C#, Node.js, Docker, Javascript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker, AWS e Arquitetura de Software :heart:
+- :books: Arquitetura de Software, Domain-Driven Design, Kubernetes, Clean Arquitecture :heart:
 
 ---
