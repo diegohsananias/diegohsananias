@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoananias//)](https://www.linkedin.com/in/diegoananias//)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/86417/hanania-mizrahi)](https://pt.stackoverflow.com/users/86417/hanania-mizrahi)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519981119983&text=Olá!)](https://api.whatsapp.com/send?phone=5519981119983&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegohsananias@gmail.com)](mailto:diegohsananias@gmail.com)
 
 ## Olá! 👋
 
